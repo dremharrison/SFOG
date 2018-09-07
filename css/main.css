@@ -272,22 +272,8 @@ button {
 	outline: none;
 }
 
-#thrillslide {
-	border: solid;
-	box-shadow: 5px 5px #888888;
-}
-
-.slideButtons{
-	display: flex;
-	justify-content: center;
-	margin-top: 5vh;
-}
-
-.back {
-}
-
-.next {
-	margin-left: 30vw;
+#carouselExampleIndicators{
+	width: 40vw;
 }
 
 .checkheight a {
@@ -345,8 +331,8 @@ button {
 
 #thrillTC {
 	background: black;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: #0095D1;
 	text-align: center;
 	border: inset #0095D1;
@@ -363,8 +349,8 @@ button {
 
 #thrillA {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
@@ -380,8 +366,8 @@ button {
 
 #thrillBTR {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
@@ -398,8 +384,8 @@ button {
 
 #thrillBH {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	border: inset blue;
 	color: white;
 	text-align: center;
@@ -416,8 +402,8 @@ button {
 
 #thrillDMT {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
@@ -434,8 +420,8 @@ button {
 
 #thrillDDD {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
@@ -452,8 +438,8 @@ button {
 
 #thrillGS {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
@@ -470,8 +456,8 @@ button {
 
 #thrillG {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
@@ -488,8 +474,8 @@ button {
 
 #thrillSM {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
@@ -505,8 +491,8 @@ button {
 
 #thrillJL {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
@@ -522,8 +508,8 @@ button {
 
 #thrillMB {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
@@ -539,8 +525,8 @@ button {
 
 #thrillSC {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
@@ -556,8 +542,8 @@ button {
 
 #thrillSS {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
@@ -573,8 +559,8 @@ button {
 
 #thrillSF {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
@@ -590,8 +576,8 @@ button {
 
 #thrillSUF {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
@@ -607,8 +593,8 @@ button {
 
 #thrillJCC {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
@@ -638,14 +624,12 @@ button {
 
 #kidsHC {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
 	border-radius: 25px;
-	margin-left: ;
-	margin-top: ;
 	transition: all .4s ease-in-out;
 }
 
@@ -657,14 +641,12 @@ button {
 
 #kidsLT {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
 	border-radius: 25px;
-	margin-left: ;
-	margin-top: ;
 	transition: all .4s ease-in-out;
 }
 
@@ -676,14 +658,12 @@ button {
 
 #kidsMRS {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
 	border-radius: 25px;
-	margin-left: ;
-	margin-top: ;
 	transition: all .4s ease-in-out;
 }
 
@@ -701,14 +681,12 @@ button {
 
 #kidsRGRS {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
 	border-radius: 25px;
-	margin-left: ;
-	margin-top: ;
 	transition: all .4s ease-in-out;
 }
 
@@ -720,14 +698,12 @@ button {
 
 #kidsRC {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
 	border-radius: 25px;
-	margin-left: ;
-	margin-top: ;
 	transition: all .4s ease-in-out;
 }
 
@@ -739,14 +715,12 @@ button {
 
 #kidsRT {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
 	border-radius: 25px;
-	margin-left: ;
-	margin-top: ;
 	transition: all .4s ease-in-out;
 }
 
@@ -758,14 +732,12 @@ button {
 
 #kidsUUA {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
 	border-radius: 25px;
-	margin-left: ;
-	margin-top: ;
 	transition: all .4s ease-in-out;
 }
 
@@ -777,14 +749,12 @@ button {
 
 #kidsYSWW {
 	background: #E34A00;
-	height: 150px;
-	width: 150px;
+	height: 20vh;
+	width: 15vw;
 	color: white;
 	text-align: center;
 	border: inset blue;
 	border-radius: 25px;
-	margin-left: ;
-	margin-top: ;
 	transition: all .4s ease-in-out;
 }
 
