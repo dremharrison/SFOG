@@ -20,6 +20,9 @@
 
 <body>
 	<div class="landingbody">
+		<!--audio autoplay doesnt work in chrome, iframe playing "nothing"/silence.mp3 is to help audio work for chrome browser use-->
+		<iframe src="silence.mp3" allow="autoplay" id="audio" style="display:none"></iframe>
+
 		<audio autoplay>
 			<source src="audio/rc.mp3" type="audio/mpeg">
 		</audio>
